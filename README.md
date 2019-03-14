@@ -1,7 +1,7 @@
 # LIBFT - ECOLE 42
 
-**Objectifs: Bases de C - Libc - Génération d'une libraire statique **\
-**Compétences: Rigor - Algorithms & AI - Imperative programming **
+**Objectifs: Bases de C - Libc - Génération d'une libraire statique**\
+**Compétences: Rigor - Algorithms & AI - Imperative programming**
 
 ## Objectifs
 
